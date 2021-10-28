@@ -9,6 +9,9 @@ Rouxhero
 -  mfc.sh
   * script how auto create Makefile for C project , just needs main name
 # Usage
+
+> only on M5 computeur
+
 - [ ] Download the repo
 - [ ] Extract and open the directory
 - [ ] open terminal and type : `chmod +x install.sh`
