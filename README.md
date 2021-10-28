@@ -1,5 +1,6 @@
 # SH UTILE
-
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Rouxhero/shUtil?style=flat-square)
+[![GitHub all releases](https://img.shields.io/github/downloads/Rouxhero/shUtil/total)](https://github.com/Rouxhero/GitDuBled/archive/refs/tags/V1.1.zip)
 ### Creator
 Rouxhero
 
