@@ -4,10 +4,8 @@
 ### Creator
 Rouxhero
 # Content
--  push.sh 
-  * script how auto push , just needs commit name
--  mfc.sh
-  * script how auto create Makefile for C project , just needs main name
+- push.sh :` script how auto push , just needs commit name`
+-  mfc.sh : `script how auto create Makefile for C project , just needs main name`
 # Usage
 
 > only on M5 computeur
