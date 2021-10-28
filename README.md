@@ -3,10 +3,10 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/Rouxhero/shUtil/total)](https://github.com/Rouxhero/shUtil/archive/refs/tags/V1.0.zip)
 ### Creator
 Rouxhero
-# Contente
-- [ ] push.sh 
+# Content
+-  push.sh 
   * script how auto push , just needs commit name
-- [ ] mfc.sh
+-  mfc.sh
   * script how auto create Makefile for C project , just needs main name
 # Usage
 - [ ] Download the repo
